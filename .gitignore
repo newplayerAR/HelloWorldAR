@@ -35,5 +35,5 @@ sysinfo.txt
 *.unitypackage
 HelloWorldAR.sln
 Library/
+iosTestBuild/
 Assets/.DS_Store
-*.a
