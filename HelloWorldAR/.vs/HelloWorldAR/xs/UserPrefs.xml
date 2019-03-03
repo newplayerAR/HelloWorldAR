@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C86D9023-1E8E-0BDD-39A4-66BF0FCB78B5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/JumpVB.cs">
+    <Files>
+      <File FileName="Assets/unity-chan!/Unity-chan! Model/Scripts/AutoBlink.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/JumpVB.cs" Line="16" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
